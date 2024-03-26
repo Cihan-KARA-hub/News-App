@@ -33,3 +33,5 @@ License
 -------
 
 This project is licensed under the MIT License. For more information, please see the LICENSE file.
+![Screenshot_1710934765](https://github.com/Cihan-KARA-hub/News_Restful_Api/assets/73289826/c7e1a55a-b788-42a1-9192-7b6e1a969134)
+![Screenshot_1710196170](https://github.com/Cihan-KARA-hub/News_Restful_Api/assets/73289826/6bf0bcb5-0202-46ef-bf61-1542c61634e9)
